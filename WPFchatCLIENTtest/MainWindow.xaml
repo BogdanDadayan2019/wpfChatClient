@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFchatCLIENTtest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFchatCLIENTtest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="500">
+    <Grid>
+        <Button x:Name="button1" Content="Подключиться" HorizontalAlignment="Left" Margin="10,22,0,0" VerticalAlignment="Top" Width="100" Height="35" Click="Button1_Click"/>
+        <TextBox x:Name="tbName" HorizontalAlignment="Left" Height="35" Margin="220,22,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="tbMessage" HorizontalAlignment="Right" MaxHeight="90" Margin="0,75,10,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" MaxWidth="422" Height="81" Width="422"/>
+        <Button x:Name="button2" Content="Отключиться" HorizontalAlignment="Left" Margin="115,22,0,0" VerticalAlignment="Top" Width="100" Height="35" Click="Button2_Click"/>
+        <Button Content="Отправить" HorizontalAlignment="Left" Margin="66,174,0,0" VerticalAlignment="Top" Width="100" Height="35" Click="Button_Click" RenderTransformOrigin="0.307,0.65"/>
+
+    </Grid>
+</Window>

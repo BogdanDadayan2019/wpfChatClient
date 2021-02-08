@@ -1,0 +1,15 @@
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\bin\Release\WPFchatCLIENTtest.exe.config
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\bin\Release\WPFchatCLIENTtest.exe
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\bin\Release\WPFchatCLIENTtest.pdb
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest.csprojAssemblyReference.cache
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\MainWindow.g.cs
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\App.g.cs
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest_MarkupCompile.cache
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest_MarkupCompile.lref
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\MainWindow.baml
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest.g.resources
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest.Properties.Resources.resources
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest.csproj.GenerateResource.cache
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest.csproj.CoreCompileInputs.cache
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest.exe
+D:\2ProjectVisualStudio\ChatServerTest\WPFchatCLIENTtest\WPFchatCLIENTtest\obj\Release\WPFchatCLIENTtest.pdb
